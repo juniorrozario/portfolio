@@ -14,7 +14,7 @@ num_of_selections = page %>%  html_nodes('.center:nth-child(3)') %>%  html_text(
 name
 num_of_selections
 
-all_star = data_frame(name, num_of_selections, stringsAsFactors = FALSE)
+allstar = data_frame(name, num_of_selections, stringsAsFactors = FALSE)
 
-write.csv(all_star, 'nba_all_star')
-download.file('nba_all_star')
+write.csv(allstar, 'allstar')
+download.file('allstar')
