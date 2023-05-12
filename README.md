@@ -66,4 +66,4 @@ In this project, I investigate the emergence of international players in the NBA
 
 Data source: https://ourworldindata.org/covid-deaths
 
-[SQL Code](
+[SQL Code](https://github.com/juniorrozario/portfolio/blob/main/p6-covid_analysis.sql)
