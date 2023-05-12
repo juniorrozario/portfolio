@@ -28,6 +28,8 @@ https://open.toronto.ca/dataset/neighbourhoods/
 
 Tableau Dashboard: https://public.tableau.com/app/profile/junior.rozario/viz/toronto_speeding_collisions/Dashboard
 
+The purpose of this project is to investigate speeding-related collisions in Toronto. I utilized SQL and Excel to clean, aggregate, and perform EDA on Toronto traffic collision data and built a Tableau dashboard to display insights.
+
 # Project #5 - NBA International Player Analysis
 Data sources:
 
