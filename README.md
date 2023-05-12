@@ -2,7 +2,7 @@
 
 https://public.tableau.com/app/profile/junior.rozario
 
-# Project #1 - Toronto Real Estate Market EDA
+# Project #1 - Real Estate Market EDA
 Data source: https://toronto.listing.ca/real-estate-price-history.htm
 
 Tableau Dashboard: https://public.tableau.com/app/profile/junior.rozario/viz/TorontoRealEstateMarketStatistics/Dashboard
