@@ -1,6 +1,6 @@
-# Tableau Public Profile:
+[Tableau Public Profile](https://public.tableau.com/app/profile/junior.rozario)
 
-https://public.tableau.com/app/profile/junior.rozario
+[LinkedIn](https://www.linkedin.com/in/junior-rozario/)
 
 # Project #1 - Real Estate Market EDA
 Data source: https://toronto.listing.ca/real-estate-price-history.htm
